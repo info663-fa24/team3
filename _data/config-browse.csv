@@ -1,6 +1,8 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
+creator,Author,TRUE,,Author
+translator,Translator,TRUE,,Translator
+subject,Subject,TRUE,,Subject
+volume,Volume,TRUE,,Volume
+issue,Issue,TRUE,,Issue
+language,Language,TRUE,,Language
+year,Year,TRUE,,Year
