@@ -8,7 +8,7 @@ creator,Author,true,,DCTERMS.creator,author
 translator,Translator,true,,DCTERMS.contributor,translator
 article_type,Article Type,true,,DCTERMS.type,article
 subject,Subject,true,,DCTERMS.subject,about
-pdf_filename,PDF Filename,true,,DCTERMS.format,DigitalDocument
+filename,PDF Filename,true,,DCTERMS.format,DigitalDocument
 description,Abstract,true,,DCTERMS.description,abstract
 doi,DOI,true,,DCTERMS.location,identifier
 year,Year,true,,DCTERMS.date,date
