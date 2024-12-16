@@ -1,7 +1,7 @@
 field,index,display
-title,TRUE,TRUE
-translated_title,TRUE,TRUE
-creator,TRUE,TRUE
-translator,TRUE,TRUE
-description,TRUE,TRUE
-article_type,TRUE,TRUE
+title,true,true
+translated_title,true,true
+creator,true,true
+translator,true,true
+description,true,true
+article_type,true,true
