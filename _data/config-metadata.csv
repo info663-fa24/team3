@@ -1,24 +1,24 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-object_id,Object ID,,true,DCTERMS.identifier,identifier
-object_location,PDF Location,,true,DCTERMS.location,location
-title,Article Title,true,,DCTERMS.title,name
-translated_title,Translated Title,true,,DCTERMS.title,name
-language,Language,true,,DCTERMS.language,inLanguage
-creator,Author,true,,DCTERMS.creator,author
-translator,Translator,true,,DCTERMS.contributor,translator
-article_type,Article Type,true,,DCTERMS.type,article
-subject,Subject,true,,DCTERMS.subject,about
-display_template,PDF Filename,true,,DCTERMS.format,DigitalDocument
-description,Abstract,true,,DCTERMS.description,abstract
-doi,DOI,true,,DCTERMS.location,identifier
-year,Year,true,,DCTERMS.date,date
-issue,Issue,true,,DCTERMS.source,issueNumber
-volume,Volume,true,,DCTERMS.source,volumeNumber
-first_page,First Page,true,,DCTERMS.format,format
-last_page,Last Page,true,,DCTERMS.format,format
+object_id,Object ID,,,DCTERMS.identifier,identifier
+object_location,PDF Location,,,DCTERMS.location,location
+title,Article Title,,,DCTERMS.title,name
+translated_title,Translated Title,,,DCTERMS.title,name
+language,Language,,,DCTERMS.language,inLanguage
+creator,Author,,,DCTERMS.creator,author
+translator,Translator,,,DCTERMS.contributor,translator
+article_type,Article Type,,,DCTERMS.type,article
+subject,Subject,,,DCTERMS.subject,about
+display_template,PDF Filename,,,DCTERMS.format,DigitalDocument
+description,Abstract,,,DCTERMS.description,abstract
+doi,DOI,,,DCTERMS.location,identifier
+year,Year,,,DCTERMS.date,date
+issue,Issue,,,DCTERMS.source,issueNumber
+volume,Volume,,,DCTERMS.source,volumeNumber
+first_page,First Page,,,DCTERMS.format,format
+last_page,Last Page,,,DCTERMS.format,format
 season,Season,,,DCTERMS.date,datePublished
-issn,ISSN,true,,DCTERMS.identifier,issn
-journal_title,Journal Title,true,,DCTERMS.relation,Periodical
-publisher,Publisher,true,,DCTERMS.publisher,publisher
-rights,Rights,true,,DCTERMS.rights,copyrightNotice
-citation,Citation,true,,DCTERMS.bibliographicCitation,citation
+issn,ISSN,,,DCTERMS.identifier,issn
+journal_title,Journal Title,,,DCTERMS.relation,Periodical
+publisher,Publisher,,,DCTERMS.publisher,publisher
+rights,Rights,,,DCTERMS.rights,copyrightNotice
+citation,Citation,,,DCTERMS.bibliographicCitation,citation
