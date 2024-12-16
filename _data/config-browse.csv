@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
-creator,Author,TRUE,,Author
-translator,Translator,TRUE,,Translator
-subject,Subject,TRUE,,Subject
-volume,Volume,TRUE,,Volume
-issue,Issue,TRUE,,Issue
-language,Language,TRUE,,Language
-year,Year,TRUE,,Year
+creator,Author,true,,Author
+translator,Translator,true,,Translator
+subject,Subject,true,,Subject
+volume,Volume,true,,Volume
+issue,Issue,true,,Issue
+language,Language,true,,Language
+year,Year,true,,Year
