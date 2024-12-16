@@ -8,7 +8,7 @@ creator,Author
 translator,Translator
 article_type,Article Type
 subject,Subject
-filename,PDF Filename
+display_template,PDF Filename
 description,Abstract
 doi,DOI
 year,Year
